@@ -7,7 +7,7 @@ MinGW toolchain via the Ninja generator.
 Run every command from the repository root:
 
 ```powershell
-cd C:\Users\aiDAPTIV\Documents\benchmarks\snappy-main\snappy-main
+cd C:\Users\aiDAPTIV\Documents\benchmarks\snappy-main
 ```
 
 ## Prerequisite: vendored dependencies
